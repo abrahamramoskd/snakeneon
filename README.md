@@ -1,5 +1,5 @@
 # 🟢 Snake — Neon Edition
-
+ 
 Snake clásico con estética **neon oscura** en un solo archivo Python.
 
 ## ✨ Características
